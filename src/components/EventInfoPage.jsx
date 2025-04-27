@@ -11,12 +11,12 @@ const InvitationCard = () => {
       title: "श्री महालक्ष्मी देवीची यात्रा",
       dateRange: "मंगळवार दि. ०६/०५/२०२५ ते शुक्रवार दि. ०९/०५/२०२५ रोजी संपन्न होत आहे.",
       request: "तरी आपण सहकुटुंब सहपरिवार उपस्थित राहून स्नेहभोजनाचा लाभ घ्यावा ही नम्र विनंती.",
-      ourNames: "आमचे नांव:",
+      ourNames: "आपले नम्र:",
       names: [
-        "श्रीमती आशाताई  मगदूम",
-        "श्री. तुकाराम मस्कटी मगदूम",
-        "सौ. गीता तुकाराम मस्कटी मगदूम",
-        "कु. रोहित तुकाराम मस्कटी मगदूम"
+        "श्रीमती आक्काताई मारुती मगदूम",
+        "श्री. तुकाराम मारुती मगदूम",
+        "सौ.गीता तुकाराम मगदूम",
+        "कु.रोहित तुकाराम मगदूम"
       ],
       laxmi: "लक्ष्मी खेळवणे",
       laxmiDate: "मंगळवार दि. ०६/०५/२०२५ रात्री",
@@ -24,8 +24,8 @@ const InvitationCard = () => {
       foodDate: "बुधवार दि. ०७/०५/२०२५ रोजी दुपारी ३:०० पासून",
       addressTitle: "घरचा पत्ता:",
       address: [
-        "विठोबाई रोड, मंगड वाडी,",
-        "मू.पो. कडगाव, ता. गडहिंग्लज, जि. कोल्हापूर"
+        "विठ्ठलाई रोड, (मगदूम वाडी)",
+        "मु.पो. कडगांव  ता. गडहिंग्लज, जि. कोल्हापूर"
       ],
       contact: "संपर्क: 9021835116 / 9673878934",
       map: "Google नकाशावर पहा"
@@ -34,11 +34,11 @@ const InvitationCard = () => {
       title: "Shree Mahalakshmi Devi Yatra",
       dateRange: "From Tuesday 06/05/2025 to Friday 09/05/2025.",
       request: "We humbly invite you and your family to attend and enjoy the feast.",
-      ourNames: "Our Names:",
+      ourNames: "Yours sincerely:",
       names: [
-        "Mrs. Asha Muskti Magdum",
-        "Mr. Tukaram Muskti Magdum",
-        "Mrs. Geeta Tukaram Magdum",
+        "Srimati. Akkatai Maruti Magdum", 
+        "Mr. Tukaram Maruti Magdum", 
+        "Mrs. Geeta Tukaram Magdum", 
         "Mr. Rohit Tukaram Magdum"
       ],
       laxmi: "Laxmi Khelvane",
@@ -47,7 +47,7 @@ const InvitationCard = () => {
       foodDate: "Wednesday 07/05/2025 from 3:00 PM",
       addressTitle: "Home Address:",
       address: [
-        "Vithobai Road, Mangad Wadi,",
+        "Vitthalai Road, Magdum Wadi,",
         "Post: Kadgaon, Tal: Gadhinglaj, Dist: Kolhapur"
       ],
       contact: "Contact: 9021835116 / 9673878934",
